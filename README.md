@@ -19,7 +19,7 @@ GenieNetworks focuses on providing the solutions to enhance the operation & mana
 * Provide Macbook Pro
 
 ## Why
-* 台灣創新，行銷全球，多元團隊，培育新一代。
+* 台灣創新，行銷全球，多元團隊，培育新一代。
 
 ## Jobs
 ### Full-Stack Developers
