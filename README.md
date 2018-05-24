@@ -1,4 +1,5 @@
-# Genie Networks is Hiring
+# Genie Networks is Hiring 
+前端/後端 軟體工程師
 
 ## Company Profile
 威睿科技(Genie Networks)為一家電信網路設備軟體開發商，致力於開發高端科技與行銷自有品牌產品，提供網路流量的大數據分析能力以優化IP網路效率，並透過即時的網路攻擊偵測以提升大型網路的安全。 
@@ -19,28 +20,29 @@ GenieNetworks focuses on providing the solutions to enhance the operation & mana
 * Provide Macbook Pro
 
 ## Why
-* 台灣創新，行銷全球，多元團隊，培育新一代。
+* 台灣創新，行銷全球，多元團隊。
 
-## Jobs
-### Full-Stack Developers
-#### Responsibilities
-Develop modern web apps for GenieATM (Advanced Traffic Mining) product lines 
-* Comprehend Internet infrastructure and network traffic engineering 
-* Simplify provisioning of traffic analysis services with modern web interface 
-* Visualize network traffic behaviors and DDoS attacks in real time web engine 
-* Integrate with distributed system architecture in scalable back end design 
-* Unit test components following agile process 
-* Investigate and incorporate cutting edge solutions for grand product vision
+## 職務
+前端/後端 軟體工程師
+開發適用於GenieATM（進階網路流量管理）產品線的Modern Web應用程序
+### 工作內容
+* 理解互聯網基礎設施和網絡流量工程
+* 簡化通過Modern Web界面提供流量分析服務
+* 在實時架構中可視化網絡流量行為和DDoS攻擊
+* 可擴展的後端設計與分佈式系統架構做集成
+* 使用敏捷開發流程，實作單元測試
+* 調查並整合最前沿的解決方案以實現產品願景
 
-#### Skills
-* More than two years in web technologies development 
-* Understand and apply modern web frameworks/technologies: 
-  * web: html5, css/sass, es2015 
-  * front end: one of angular, react, or vue
-  * back end: nodejs/express, restful APIs, graphQL 
-  * db: SQL/NoSQL, redis, etc. 
-  * programming: typescript, oo/functional/reactive, git, unit testing 
-* Enjoy challenging and learning to deliver better results
+
+### 工作要求技能
+1. 對網絡技術開發有熱情
+2. 了解基本Modern Web 技術：
+    * web：javascript, http, html5, css
+    * 前端加分：了解Angular/React/Vue ，了解typescript
+    * 後端加分：了解nodejs/express, graphQL。
+    * 編程：希望寫出易懂精簡的模組化程式，使用各式工具如: git, vscode等。
+3. 享受具有挑戰性的學習並產生更好的結果
+
 
 #### Locations
 * 台北市內湖科技園區
