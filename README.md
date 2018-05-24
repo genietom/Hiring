@@ -1,5 +1,4 @@
 # Genie Networks is Hiring 
-前端/後端 軟體工程師
 
 ## Company Profile
 威睿科技(Genie Networks)為一家電信網路設備軟體開發商，致力於開發高端科技與行銷自有品牌產品，提供網路流量的大數據分析能力以優化IP網路效率，並透過即時的網路攻擊偵測以提升大型網路的安全。 
@@ -15,16 +14,17 @@ GenieNetworks focuses on providing the solutions to enhance the operation & mana
 
 ## Benefits
 * Bonus Sharing
-* 每月部門員工聚餐
+* 每月部門員工聚餐, 彈性上下班制, 國內外公司旅遊, ...等等
 * 公司停車位
-* Provide Macbook Pro
+* 提供開發人員 Apple MacBook Pro
 
 ## Why
 * 台灣創新，行銷全球，多元團隊。
 
 ## 職務
-前端/後端 軟體工程師
+### 前端/後端 軟體工程師
 開發適用於GenieATM（進階網路流量管理）產品線的Modern Web應用程序
+
 ### 工作內容
 * 理解互聯網基礎設施和網絡流量工程
 * 簡化通過Modern Web界面提供流量分析服務
@@ -44,11 +44,11 @@ GenieNetworks focuses on providing the solutions to enhance the operation & mana
 3. 享受具有挑戰性的學習並產生更好的結果
 
 
-#### Locations
+### 地點
 * 台北市內湖科技園區
 * 台中市北屯區
 
-#### Contacts
+### 聯絡方式
 * 104 job applications
   * https://www.104.com.tw/job/?jobno=5uerk
   * https://www.104.com.tw/job/?jobno=60ukr
